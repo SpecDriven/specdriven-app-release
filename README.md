@@ -11,11 +11,17 @@
 - Fast local search.
 - Only need Git repo to start -- uses automerge.org as a peer-to-peer DB. Server will be developed for larger projects in the future.
 
+## Install on Mac or Linux
 
 run ```curl -fsSL https://raw.githubusercontent.com/SpecDriven/specdriven-app-release/main/install.sh | sh```
 
-If successful, you should have a SpecDriven App in your Applications on Mac.
+On Mac, you should now have a SpecDriven App in your Applications on Mac.
 
 For sample data, fork https://github.com/SpecDriven/specs-insurance and clone it locally.
+
+## Install on Windows
+
+Coming soon...
+
 
 
