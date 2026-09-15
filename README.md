@@ -13,7 +13,9 @@
 
 ## Install on Mac or Linux
 
-run ```curl -fsSL https://raw.githubusercontent.com/SpecDriven/specdriven-app-release/main/install.sh | sh```
+```bash
+curl -fsSL https://raw.githubusercontent.com/SpecDriven/specdriven-app-release/main/install.sh | sh
+```
 
 On Mac, you should now have a SpecDriven App in your Applications on Mac.
 
