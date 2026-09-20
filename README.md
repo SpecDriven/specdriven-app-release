@@ -7,7 +7,7 @@
 - Each spec (scenario) has a unique deep link.
 - Promotes iterative and incremental development.
 - Supports bi-directional traceability to automated tests written with the test framework of your choice.
-- Integrates with Aha!, Jira, Liner, Figma, GitHub, and all major AI code agents.
+- Integrates with Aha!, Jira, Liner, Figma, GitHub, and all major AI code agents. [future]
 - Specs are stored separately from code -- ready for long term maintenance where technical implementation may change dramatically.
 - AI agents see specs as files in the ‘specs’ folder and can propose additional specifications by writing into this folder.
 - Fast local search.
