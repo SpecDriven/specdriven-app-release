@@ -1,0 +1,36 @@
+{
+  "name": "specdriven",
+  "owner": {
+    "name": "SpecDriven",
+    "url": "https://github.com/SpecDriven"
+  },
+  "plugins": [
+    {
+      "name": "models",
+      "source": "./plugins/models-1.0.0.zip",
+      "sha256": "0aa0ee4c8791e60c58b5d9c4568bc97cc2a2e90946cb5a9f94e64989a90fdc54",
+      "description": "Event Models drawn on a canvas, sliced into specs",
+      "version": "1.0.0",
+      "category": "modeling",
+      "api": "1"
+    },
+    {
+      "name": "event-storming",
+      "source": "./plugins/event-storming-1.0.0.zip",
+      "sha256": "c84f7628fdc6af45cff03979c97a6a9e0edfb09b9fb4131b579d02191babb503",
+      "description": "Classic Event Storming: a wall of sticky notes — domain events on a timeline, commands, actors, policies, aggregates, read models, external systems and hotspots",
+      "version": "1.0.0",
+      "category": "modeling",
+      "api": "1"
+    },
+    {
+      "name": "hello-tab",
+      "source": "./plugins/hello-tab-0.1.0.zip",
+      "sha256": "7a6cc729bdae0a470bfeb994925df03c3b4928390a997d8085e1c67231580732",
+      "description": "Hello Tab on its own tab",
+      "version": "0.1.0",
+      "category": "samples",
+      "api": "1"
+    }
+  ]
+}
