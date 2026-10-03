@@ -27,5 +27,12 @@ For sample data, fork https://github.com/SpecDriven/specs-insurance and clone it
 
 Coming soon...
 
+## License
 
-
+SpecDriven App is source-available under the unmodified
+[PolyForm Perimeter 1.0.1](https://polyformproject.org/licenses/perimeter/1.0.1)
+license, not unrestricted open source. Internal business use, including
+commercial and production use, is permitted; using the app to provide a
+product that competes with it is restricted. Read [LICENSE.md](LICENSE.md)
+and [NOTICE.md](NOTICE.md). For anything beyond that, contact
+hello@specdriven.app.
