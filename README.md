@@ -25,7 +25,16 @@ For sample data, fork https://github.com/SpecDriven/specs-insurance and clone it
 
 ## Install on Windows
 
-Coming soon...
+In PowerShell (not as Administrator):
+
+```powershell
+irm https://raw.githubusercontent.com/SpecDriven/specdriven-app-release/main/install.ps1 | iex
+```
+
+It verifies and unpacks the source under `%USERPROFILE%\.specdriven\app`,
+offers to install [Bun](https://bun.sh) if it is missing, builds the desktop
+app, adds SpecDriven to the Start menu and starts it. SpecDriven keeps its data
+in git, so install [Git for Windows](https://git-scm.com/download/win) too.
 
 ## License
 
