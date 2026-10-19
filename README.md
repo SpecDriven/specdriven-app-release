@@ -38,10 +38,12 @@ in git, so install [Git for Windows](https://git-scm.com/download/win) too.
 
 ## License
 
-SpecDriven App is source-available under the unmodified
-[PolyForm Perimeter 1.0.1](https://polyformproject.org/licenses/perimeter/1.0.1)
-license, not unrestricted open source. Internal business use, including
-commercial and production use, is permitted; using the app to provide a
-product that competes with it is restricted. Read [LICENSE.md](LICENSE.md)
-and [NOTICE.md](NOTICE.md). For anything beyond that, contact
-hello@specdriven.app.
+Copyright (c) 2026 David Vydra (https://specdriven.app)
+
+specdriven.app is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License, version 3 only (SPDX: AGPL-3.0-only), as published by the Free Software Foundation. LICENSE.md holds the full text.
+
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for details.
+
+If you run a modified copy as a network service, the license asks you to offer its users the source of your version; set SPECDRIVEN_SOURCE_URL so the app's "Source code" link points at it.
+
+No trademark rights are granted. "SpecDriven" and "specdriven.app" are not licensed under the AGPL.
